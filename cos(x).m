@@ -1,4 +1,4 @@
-function f = cosinebit(theta, units)
+function f = cosine(theta, units)
 if nargin ~= 2
     disp("error")
     return
